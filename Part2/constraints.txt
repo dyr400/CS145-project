@@ -1,0 +1,17 @@
+No.	how	file
+1	PRIMARY	create.sql
+2	RI	create.sql
+3	PRIMARY	create.sql
+4	RI	create.sql
+5	RI	create.sql
+6	UNIQUE	create.sql
+7	CHECK	create.sql
+8	Trigger	trigger8_add.sql trigger8_drop.sql
+9	Trigger	trigger9_add.sql trigger9_drop.sql
+10	UNIQUE	create.sql
+11	Trigger	trigger11_add.sql trigger11_drop.sql
+12	UNIQUE	create.sql
+13	Trigger trigger13_add.sql trigger13_drop.sql
+14	Trigger	trigger14_add.sql trigger14_drop.sql
+15	Trigger	trigger15_add.sql trigger15_drop.sql
+16	Trigger	trigger16_add.sql trigger16_drop.sql
